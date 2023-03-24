@@ -1,0 +1,3 @@
+clickBtn.addEventListener("click", ()=>{
+    getRandomColor()
+})
